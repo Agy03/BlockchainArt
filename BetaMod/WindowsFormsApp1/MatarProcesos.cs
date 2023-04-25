@@ -1,24 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Management;
 
-namespace WindowsFormsApp1
+namespace TESTINGproyectos
 {
-    internal static class Program
+    class Program
     {
-        /// <summary>
-        /// Punto de entrada principal para la aplicación.
-        /// </summary>
-        [STAThread]
         static void Main()
         {
-            while (true)
+            while(true)
             {
                 // Crea un objeto de la clase ManagementEventWatcher para recibir notificaciones de eventos del sistema
                 ManagementEventWatcher watcher = new ManagementEventWatcher("SELECT * FROM Win32_ProcessStartTrace");
@@ -40,7 +34,7 @@ namespace WindowsFormsApp1
         private static void ProcessStarted(object sender, EventArrivedEventArgs e)
         {
             // Nombres de las aplicaciones que deseas bloquear
-            string[] applicationNames = { "Notepad"};
+            string[] applicationNames = { "Notepad", "nombre_de_tu_aplicacion2.exe", "nombre_de_tu_aplicacion3.exe" };
 
             // Obtiene todos los procesos en ejecución en el sistema
             Process[] processes = Process.GetProcesses();
@@ -59,12 +53,13 @@ namespace WindowsFormsApp1
                         //Console.WriteLine("El proceso ha estado activo durante " + elapsedTime.ToString());
                         //if (elapsedTime.TotalSeconds > 10)
                         //{
-                        // Termina el proceso
-                        process.Kill();
+                            // Termina el proceso
+                            process.Kill();
                         //}
                     }
                 }
             }
         }
     }
+
 }
