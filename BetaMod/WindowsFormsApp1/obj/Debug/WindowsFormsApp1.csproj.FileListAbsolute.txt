@@ -9,3 +9,13 @@ C:\Users\Roger\Desktop\Proyectos I Trabajo\Proyectos1_Betamod\BetaMod\WindowsFor
 C:\Users\Roger\Desktop\Proyectos I Trabajo\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Roger\Desktop\Proyectos I Trabajo\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Roger\Desktop\Proyectos I Trabajo\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tnewt\Proyectos1_Betamod\BetaMod\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
